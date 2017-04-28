@@ -16,7 +16,13 @@ udp://tracker4.piratux.com:6969/announce
 
 udp://tracker.opentrackr.org:1337
 
+udp://tracker.trackerfix.com:83/announce
+
 udp://tracker.trackerfix.com:81/announce
+
+udp://9.rarbg.me:2790/announce
+
+udp://9.rarbg.to:2720/announce
 
 udp://9.rarbg.to:2800/announce
 
