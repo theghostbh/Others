@@ -28,6 +28,12 @@ udp://9.rarbg.to:2800/announce
 
 http://mgtracker.org:2710/announce
 
+http://mgtracker.org:6969/announce
+
+http://retracker.local/announce
+
+http://tr.rustorka.com:2710/00142cc9d1c9e0203d3faa032fbdd550/announce
+
 http://tracker1.wasabii.com.tw:6969/announce
 
 udp://public.popcorn-tracker.org:6969/announce
