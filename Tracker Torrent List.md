@@ -1,6 +1,14 @@
+udp://open.demonii.com:1337/announce
+
 udp://p4p.arenabg.ch:1337
 
 http://pow7.com/announce
+
+udp://tracker.publicbt.com:80/announce
+
+udp://tracker.istole.it:80/announce
+
+udp://tracker.ccc.de:80/announce
 
 udp://tracker.ilibr.org:6969/announce
 
@@ -13,6 +21,8 @@ udp://tracker.leechers-paradise.org:6969
 udp://tracker2.indowebster.com:6969/announce
 
 udp://tracker4.piratux.com:6969/announce
+
+udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.opentrackr.org:1337
 
