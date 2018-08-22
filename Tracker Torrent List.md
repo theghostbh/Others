@@ -373,3 +373,5 @@ udp://tracker.mg64.net:2710/announce
 udp://tracker.mg64.net:6969/announce
 
 udp://tracker.sktorrent.net:6969
+
+http://retracker.telecom.by:80/announce
