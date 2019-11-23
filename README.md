@@ -1,5 +1,9 @@
-We are an application programming company that can satisfy all the desires of programming
-And anyone who wants to communicate with us on one of the types of communication we have
-whatsapp: +97333193316
-instagram: @ 0zedron0
-#ruthlessteam #ruthless #team #ruthless_team #33193316 #0zedron0 #programmer #programing #مبرمج #freelancer #company #bahrain #البحرين #vb.net #مملكة #visual_studio #مملكة_البحرين #Visual #studio #application #mobile #windows
+We are a company specialized in programming games and programs working on computers and phones We are at the beginning of the road and aspire to make all our valued customers happy to communicate with us:
+
+نحن شركة متخصصة ببرمجة الالعاب و البرامج تعمل على الكمبيوتر والهواتف نحن في بداية الطريق ونطمح بأن نجعل جميع زبائننا الكرام سعداء للتواصل معنا :
+
+whatsapp : +97333193316
+
+#whatsapp #whats #app #programmer #developer #website #web #site #company #ruthless_team #ruthlessteam #ruthless #team #bahrain #kingdom #of #kingdom_of_bahrain #3319316 #009733319316 #00973 #android #os #format #2017
+
+#البحرين #مملكة #مملكة_البحرين #مبرمجين #مبرمجون #الكمبيوتر #الهواتف #شركة #فريق_روفلس #فريق #روفلس #واتس_اب #الالعاب #برامج #مطورون
